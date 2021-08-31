@@ -112,7 +112,7 @@ aside {
   text-align: center;
 }
 
-.benefit-cost h3 {
+.benefit-cost img {
   margin-bottom: 10px;
   text-align: center;
 }
@@ -162,19 +162,19 @@ article {
   color: #ffffff;
 }
 
-.search-engine-optimization img {
+article img {
   max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
   max-height: 200px;
 }
 
 .social-media-marketing img {
   max-height: 200px;
-}
+} */
 
-.search-engine-optimization h2 {
+article h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -189,7 +189,7 @@ article {
   font-size: 36px;
 }
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
